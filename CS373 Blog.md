@@ -1,6 +1,8 @@
 ## CS373 Spring 2018: Colin Hall
 ![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
 
+## Week of 15 Jan - 21 Jan:
+
 **What are your expectations of the class?**
 I am hoping to gain practical experience working on software development projects as well as experience working with a large team on a project. I gained some experience working with some of the development tools we will be going over in this class during my previous internship but would like to improve my understanding of those tools.
 
@@ -18,5 +20,27 @@ My experience in this class has been about what I expected it to be. I had heard
 
 **What's my pick-of-the-week or tip-of-the-week?**
 Don't try and upload a .xcf image to your GitHub page, it won't show up properly. I spent an embarrassingly long time trying to find the problem before I finally realized I just needed to switch the image format. I'm going to need a lot more practice making websites.
+
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 22 Jan - 28 Jan:
+
+**What did you do this past week?**
+This past week I looked into ways to improve the performance of solving the Collatz problem. Downing provided us with a lot of good resources to accomplish this, as well as provided us with some ideas during class. I also read a lot about extreme programming, a management style that I had experienced somewhat during my internship but never really knew formally. I am also learning a lot about the importance of testing thoroughly and read a paper about how an entire rocket blew up because of a minor error in the code.
+
+**What's in your way?**
+Nothing except other work is currently in my way. I do need to get a better understanding of GitHub to be able to deal with all of the requirements for the project, but I am already fairly strong in python so the actual coding shouldn't take me very long. 
+
+**What will you do next week?**
+I still need to find a group to do the projects with. I also need to begin to learn JavaScript as it will be needed for one of the projects and I only have experience using it to write exploits. It would also be helpful for me to look into Travis CI more to get a better understanding of how that works as I know very little about the software.
+
+**What's my experience of the class?**
+I like the class so far. I'm definitely not a big fan of the quizzes every day, but it does do a good job of keeping me up with the reading, whether that is for better or worse any particular week. Downing is a very strong lecturer and it seems like his projects are going to be extremely helpful for strengthening my large-scale development and teamwork skills, even if they seem a bit silly for the small scale of the projects. 
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If any of y'all are interested in machine vision, I would recommend checking out MatLab, it has a lot of great libraries for image processing and is extremely powerful. If Matlab is too expensive for you and you're not a student (students can get it free) then try Octave or Python's OpenCV, as they are also very strong. 
+
+
 
 
