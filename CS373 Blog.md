@@ -41,6 +41,26 @@ I like the class so far. I'm definitely not a big fan of the quizzes every day, 
 **What's my pick-of-the-week or tip-of-the-week?**
 If any of y'all are interested in machine vision, I would recommend checking out MatLab, it has a lot of great libraries for image processing and is extremely powerful. If Matlab is too expensive for you and you're not a student (students can get it free) then try Octave or Python's OpenCV, as they are also very strong. 
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 29 Jan - 4 Feb:
+
+**What did you do this past week?**
+This past week I finished the first project in this class as well as a project in cloud computing that automatically spins up an EC2 instance. This class's project didn't have a very difficult coding portion but learning to use all of the development tools he required ended up being a good amount of effort. In class, we went over a lot of information about what is going on behind the scenes in Python and Java, which feels a lot like 314 but does seem to be helping me get a better understanding of my code and allow for a lot more fluidity in my code.
+
+**What's in your way?**
+Nothing is currently in my way. Have a Machine Vision project due on Friday that could potentially take a long time so I am going to have to be very careful about managing my time next week.
+
+**What will you do next week?**
+I still need to find a group to work with for the upcoming project, so I will definitely get that done as I'm almost out of time. I fell pretty behind on my work finishing projects this week so hopefully, I will be able to catch back up on it next week, as I don't want to be too far behind when tests start to come up. 
+
+**What's my experience of the class?**
+The class is slowly introducing me to a whole new style of programming that is very strong in large groups or on long term projects. This will definitely make me a lot stronger asset during internships and maybe even on side projects if I ever begin to add others to them. I really like that the class is mainly in Python as I have been wanting to learn it formally for a while even though I've used it a lot in the past.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you use your UT email to get AWS Educate you can get $100 of additional free credit to Amazon Web Services, so if any of y'all have code you need a lot of computing power to run that could be a great way to get through it without having to invest in better hardware. Its also a great resource to start getting use to as cloud computing continues to grow.
+
 
 
 
