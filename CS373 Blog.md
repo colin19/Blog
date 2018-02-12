@@ -61,6 +61,23 @@ The class is slowly introducing me to a whole new style of programming that is v
 **What's my pick-of-the-week or tip-of-the-week?**
 If you use your UT email to get AWS Educate you can get $100 of additional free credit to Amazon Web Services, so if any of y'all have code you need a lot of computing power to run that could be a great way to get through it without having to invest in better hardware. Its also a great resource to start getting use to as cloud computing continues to grow.
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
 
+## Week of 5 Feb - 11 Feb:
 
+**What did you do this past week?**
+I finished working on my computer vision project this week. We got to create a program that could perform content-aware resizing using seam carving and use the program on a lot of images to test and create interesting results. For this class, my team and I finally found out an idea for the project and are starting to work our way through it. Personally I have set up the GitHub, briefly learned most of the development tools we are using to get a better idea of the project in general, and worked on getting the ever frustrating Instagram API to work.
+
+**What's in your way?**
+We are having some confusion on how to actually use Flask with Apache and AWS. I am starting to get a better understanding of what it's for and what its used for, but how to apply it to what we are doing still isn't clear. We are also having some difficulty with the Instagram API as it is way more confusing than the google one.
+
+**What will you do next week?**
+I plan to finish getting all of the data for the APIs to give to my team as well as figure out how to utilize flask and set it up with our project as my main priorities. I will also try and help with what is left over when I finish with those jobs. Hopefully, I will also get a chance to earn how everyone else did their parts as I would like to get an understanding of more than one part of the project.
+
+**What's my experience of the class?**
+The class has been good so far. I wish we would have been taught some of these development tools briefly in class so that we didn't have to go in blind, but it's not too big of an issue. The project is pretty challenging, especially since I have never worked on anything like this before, but I really like the challenge. 
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you have an image you want to resize that has a lot of fluff/unimportant content and you want to keep the main content the same size try looking into seam carving. It's a great way to do that by cutting out pixels you wouldn't really notice much anyway.
 
