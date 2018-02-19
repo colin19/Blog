@@ -81,3 +81,24 @@ The class has been good so far. I wish we would have been taught some of these d
 **What's my pick-of-the-week or tip-of-the-week?**
 If you have an image you want to resize that has a lot of fluff/unimportant content and you want to keep the main content the same size try looking into seam carving. It's a great way to do that by cutting out pixels you wouldn't really notice much anyway.
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 12 Feb - 18 Feb:
+
+**What did you do this past week?**
+We finished the first stage of our project this week. I personally did a lot of the work gathering data through the API's we found and set up the API for our website. I also did the work to set up the GitHub for the team. After I finished that project I did my project for Cloud Computing which was making a program to use Amazon S3. My 21'st was also this weekend so I had a party to celebrate that which was a lot of fun.
+
+**What's in your way?**
+Currently, the main thing in my way is my lack of knowledge on how to actually make an API that will interact with our website. I feel like this will be a large part of the work that I do on the next project so I will need to start researching it. Other than that the only thing in my way is other work I need to do.
+
+**What will you do next week?**
+Next week I will put a lot of effort into the second stage of the project in order to get a head start on it after my test is done on Monday. I also need to continue working on some of my side projects as they have been put on the backburner due to my crazy busy schedule the last few weeks. 
+
+**What's my experience of the class?**
+I liked working with my group a lot, at least the ones that showed up. The group you end up with in this class I feel like is the biggest determinant of whether you will actually end up liking the class or not because if they are good the nights that you're up working until 3 A.M don't seem so bad anymore.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you want to try your hand at doing work with neural networks, try using TensorFlow. It's made by Google and makes creating and training elaborate networks extremely simple to do. I personally used it a lot in Neural Networks when I took the class and used it to make programs from something as simple as an evaluating Pi to something as complicated as making a network to play SuperTux.
+
+
