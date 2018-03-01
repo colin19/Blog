@@ -101,4 +101,66 @@ I liked working with my group a lot, at least the ones that showed up. The group
 **What's my pick-of-the-week or tip-of-the-week?**
 If you want to try your hand at doing work with neural networks, try using TensorFlow. It's made by Google and makes creating and training elaborate networks extremely simple to do. I personally used it a lot in Neural Networks when I took the class and used it to make programs from something as simple as an evaluating Pi to something as complicated as making a network to play SuperTux.
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 12 Feb - 18 Feb:
+
+**What did you do this past week?**
+We finished the first stage of our project this week. I personally did a lot of the work gathering data through the API's we found and set up the API for our website. I also did the work to set up the GitHub for the team. After I finished that project I did my project for Cloud Computing which was making a program to use Amazon S3. My 21'st was also this weekend so I had a party to celebrate that which was a lot of fun.
+
+**What's in your way?**
+Currently, the main thing in my way is my lack of knowledge on how to actually make an API that will interact with our website. I feel like this will be a large part of the work that I do on the next project so I will need to start researching it. Other than that the only thing in my way is other work I need to do.
+
+**What will you do next week?**
+Next week I will put a lot of effort into the second stage of the project in order to get a head start on it after my test is done on Monday. I also need to continue working on some of my side projects as they have been put on the backburner due to my crazy busy schedule the last few weeks. 
+
+**What's my experience of the class?**
+I liked working with my group a lot, at least the ones that showed up. The group you end up with in this class I feel like is the biggest determinant of whether you will actually end up liking the class or not because if they are good the nights that you're up working until 3 A.M don't seem so bad anymore.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you want to try your hand at doing work with neural networks, try using TensorFlow. It's made by Google and makes creating and training elaborate networks extremely simple to do. I personally used it a lot in Neural Networks when I took the class and used it to make programs from something as simple as an evaluating Pi to something as complicated as making a network to play SuperTux.
+
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 12 Feb - 18 Feb:
+
+**What did you do this past week?**
+We finished the first stage of our project this week. I personally did a lot of the work gathering data through the API's we found and set up the API for our website. I also did the work to set up the GitHub for the team. After I finished that project I did my project for Cloud Computing which was making a program to use Amazon S3. My 21'st was also this weekend so I had a party to celebrate that which was a lot of fun.
+
+**What's in your way?**
+Currently, the main thing in my way is my lack of knowledge on how to actually make an API that will interact with our website. I feel like this will be a large part of the work that I do on the next project so I will need to start researching it. Other than that the only thing in my way is other work I need to do.
+
+**What will you do next week?**
+Next week I will put a lot of effort into the second stage of the project in order to get a head start on it after my test is done on Monday. I also need to continue working on some of my side projects as they have been put on the backburner due to my crazy busy schedule the last few weeks. 
+
+**What's my experience of the class?**
+I liked working with my group a lot, at least the ones that showed up. The group you end up with in this class I feel like is the biggest determinant of whether you will actually end up liking the class or not because if they are good the nights that you're up working until 3 A.M don't seem so bad anymore.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you want to try your hand at doing work with neural networks, try using TensorFlow. It's made by Google and makes creating and training elaborate networks extremely simple to do. I personally used it a lot in Neural Networks when I took the class and used it to make programs from something as simple as an evaluating Pi to something as complicated as making a network to play SuperTux.
+
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 19 Feb - 25 Feb:
+
+**What did you do this past week?**
+Last week started off with a test in Finance and then was followed by a lot of recruiting due to the career fair and an interview with RetailMeNot on Friday. Last week my soccer and dodgeball team make playoffs for IM as well. The cloud computing project was working to set up an API for Amazon S3 and will hopefully be used on the project in this class at some point.
+
+**What's in your way?**
+Currently what's in my way is a lack of time. I need to put more focus into recruiting in case I don't get any of the jobs I interviewed/applied for recently and have a lot of tests/projects coming up at the same time as doing all of this. I really want to have time to put into some of my side research projects, but at this rate, it might not happen for a while.
+
+**What will you do next week?**
+Next week is the test for this class, so obviously I will be studying for that. I also have a computer vision project I need to finish and more recruiting I should be doing. Hopefully, I will find some time to work on the aforementioned side projects as well as the week progresses. If I can find the time, I also would like to squeeze in some bouldering as it has been way too long since I have gone.
+
+**What's my experience of the class?**
+This class has been extremely helpful for the interviews I have been doing. Python is a really clean language for coding on a whiteboard and my new found strong understanding of the language allows me to be confident when I am coding in front of people. The group work aspect of this class has also allowed me to answer a bunch of the behavioral and leadership problems they threw at me. I would definitely recommend people take this class if they think they are going to be doing any interviewing that semester.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+Hough Transform is a great technique for detecting shapes within an image. It is not too difficult to implement yourself if you want to and can lead to some very cool results if you enjoy playing with images. 
+
+
+
 
