@@ -161,6 +161,26 @@ This class has been extremely helpful for the interviews I have been doing. Pyth
 **What's my pick-of-the-week or tip-of-the-week?**
 Hough Transform is a great technique for detecting shapes within an image. It is not too difficult to implement yourself if you want to and can lead to some very cool results if you enjoy playing with images. 
 
+## Week of 26 Feb - 4 Mar:
+
+**What did you do this past week?**
+This last week was a long one as I had a project to do in Computer Vision as well as a test for this class. The test turned out to be really easy as it was basically just slight renditions of the HackeRank exercises we did in class. The computer vision project was really cool. We created a program that could segment images based on color and texture and then another that could find circles of various sizes in an image. 
+
+**What's in your way?**
+I have two tests coming up so that will be taking up most of my time this week. I still hope we are able to get started on the project for this class so I don't have too much to do over spring break. Hopefully, this week won't be as crazy as last week and I will be able to do stuff that isn't related to school for a while. 
+
+**What will you do next week?**
+Next week is going to be mostly studying for my exams. I have one and Cloud Computing and Computer Vision, both on the same day. Past that I kind of want to just have a chill week where I work on mostly side projects/further recruiting. I also need to take some time though to work on the project for this class as I said, and will probably start off with trying to find out how to dynamically take the data we need from the API's we found. 
+
+**What's my experience of the class?**
+I have enjoyed the class so far. The class doesn't seem like it is particularly hard outside of the projects. I am really enjoying how well I am learning Python, though the JavaScript lessons seem a bit forced. I personally have never really liked JavaScript and will probably never have to use it, but I understand others might want to learn the language.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you are looking to segment of certain parts of an image, try using segmentations other than just color. There are a lot of possible filters you can try that would probably return way better results. Texture is a very common one, though it still has problems with a lot of images. Another thing you could try is using Hough Transform and looking for specific shapes to segment out. 
+
+
+
+
 
 
 
