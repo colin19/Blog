@@ -141,6 +141,25 @@ I have enjoyed the class so far. The class doesn't seem like it is particularly 
 **What's my pick-of-the-week or tip-of-the-week?**
 If you are looking to segment of certain parts of an image, try using segmentations other than just color. There are a lot of possible filters you can try that would probably return way better results. Texture is a very common one, though it still has problems with a lot of images. Another thing you could try is using Hough Transform and looking for specific shapes to segment out. 
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 5 Mar - 11 Mar:
+
+**What did you do this past week?**
+This last week was spent preparing for tests as I had two of them on Thursday, one in Computer Vision and one in Cloud Computing. Thankfully I got a lot of time to study as I didn't have too much other work due that week. Once those tests were done I spent basically the rest of the week either playing ultimate or catching up on sleep as I was way overtired from the first half of the semester. 
+
+**What's in your way?**
+Currently, the only things in my way are the projects I need to work on that are due shortly after Spring Break, and don't have much experience doing anything related to what these projects are about. I should have plenty of time to work on them over the break so hopefully, that won't be too much of a problem. 
+
+**What will you do next week?**
+Next week is spring break. I need to put a lot of work into my Cloud Computing project as well as a lot of work into the project for this class. This part of the project seems like it is going to take a while and we are currently not that far along in it as we have all been really busy. The first thing I plan to work on in the project is helping to set up the database and writing the code to pull information from it. 
+
+**What's my experience of the class?**
+The class has been great so far. The test went really well and I really liked the only programming design behind it. The project is still really interesting despite the difficulties. I really enjoy that this class isn't mostly theory as I have been taking a lot of classes like that and feel like my actual implementation skills were suffering because of it. 
+
+**What's my pick-of-the-week or tip-of-the-week?**
+If you are trying to match objects that may have different scales or rotations, try looking into SIFT (Scale Invariant Feature Transform). It uses detected features and the magnitude of the gradients in those features to describe images and compare them to other images. It is a really powerful and fast algorithm that is used a lot commercially as well. 
 
 
 
