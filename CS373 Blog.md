@@ -161,6 +161,27 @@ The class has been great so far. The test went really well and I really liked th
 **What's my pick-of-the-week or tip-of-the-week?**
 If you are trying to match objects that may have different scales or rotations, try looking into SIFT (Scale Invariant Feature Transform). It uses detected features and the magnitude of the gradients in those features to describe images and compare them to other images. It is a really powerful and fast algorithm that is used a lot commercially as well. 
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 19 Mar - 25 Mar:
+
+**What did you do this past week?**
+The beginning of this week was taken up by the cloud project that I needed to finish. After that, I spend most of my time finishing the project for this class, as it was a lot of work for this phase. I also had an interview with Innoplexus, so we will see if I get an offer. Finally, my team made it to te intramural dodgeball championship so I did that as well. 
+
+**What's in your way?**
+Next week I have to do my project for computer vision, which always takes a good amount of time. I also have to get started working on the project for this class so that we can get the work done more smoothly. Finally, intramural frisbee starts up this week and will be taking up a bit of my time. 
+
+**What will you do next week?**
+The beginning of the week will be mostly the project for computer vision, as I want to be able to have plenty of time to finish it. Hopefully, I will have some time to work on non-school stuff as well this week, it will really depend on how long the vision project takes. I want to spend some time next week working to get back into shape again, as I have been slacking on that recently due to a significant lack of time.
+
+**What's my experience of the class?**
+This class has been a great experience so far. Working with a group is definitely good practice for the workforce and the projects are really interesting as well as satisfying. This class prepares you extremely well for interviews in Python and has definitely helped me out a bunch. The HackerRank exercises definitely make me more confident in writing more unconventional code and I feel like that is also extremely helpful.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+All of the services on AWS have an API for using them, allowing you to automatically do a lot of the work that would normally have to be done manually. Taking some time to figure out how these work and set them up could end up saving you a ton of time on your projects, especially when dealing with the database and the EC2 instances.
+
+
 
 
 
