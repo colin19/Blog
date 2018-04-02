@@ -181,9 +181,25 @@ This class has been a great experience so far. Working with a group is definitel
 **What's my pick-of-the-week or tip-of-the-week?**
 All of the services on AWS have an API for using them, allowing you to automatically do a lot of the work that would normally have to be done manually. Taking some time to figure out how these work and set them up could end up saving you a ton of time on your projects, especially when dealing with the database and the EC2 instances.
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
 
+## Week of 26 Mar - 1 Apr:
 
+**What did you do this past week?**
+I played a lot of ultimate this past week and did a bunch of running. I really want to get back into shape again. Sadly, I hurt my toe a good bit in the Greenbelt and might not be able to run for a while (hopefully not very long). I also have done work on some of the three projects I have due next week, though this week is going to be rough regardless. 
 
+**What's in your way?**
+Currently, my hurt toe and all the projects I have due this week are in my way. I won't have free time for much until these are all turned in. After these are done I should have some time to myself, but it never is long. I also can't do any running workouts until the doc gives the ok on my toe, which will put a damper on my training for the 4 by 4. 
+
+**What will you do next week?**
+I plan to spend most of this week working on projects. I have one due in Cloud Computing, Computer Vision, and this class. If I get the opportunity to leave the GDC basement next week, that time will be spent going to the gym to lift. It definitely is going to be a productive week, even if it is rather uneventful. 
+
+**What's my experience of the class?**
+I am really glad we are learning SQL. I have been meaning to learn it on my own as knowing how to manage data will be infinitely useful with the machine learning stuff I do. I really didn't want to have to take Data Management as I heard it is a massive waste of time. I think the idea behind the language is really cool and efficient and hopefully will be pretty strong in it by the time this class is done.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+This one is an oldie but a goodie. Don't procrastinate! Try and get an idea of everything you have coming up next week before you spend the entire weekend doing non-work related stuff. Otherwise, you can end up with only a few hours o sleep every night. Trust me, I speak from experience. 
 
 
 
