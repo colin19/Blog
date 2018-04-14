@@ -201,5 +201,22 @@ I am really glad we are learning SQL. I have been meaning to learn it on my own 
 **What's my pick-of-the-week or tip-of-the-week?**
 This one is an oldie but a goodie. Don't procrastinate! Try and get an idea of everything you have coming up next week before you spend the entire weekend doing non-work related stuff. Otherwise, you can end up with only a few hours o sleep every night. Trust me, I speak from experience. 
 
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
 
+## Week of 2 Apr - 8 Apr:
 
+**What did you do this past week?**
+Last week was pretty brutal. I had 3 projects due in the first half of the week. I was thankfully able to get them all done and still manage to get around 6 hours of sleep over the course of those 4 days. The first project was a Computer Vision project making it so that you could stitch images together if they had the same optical center or add an image to a plane on another photo if they did not. The next project was Cloud Computing and I had to create a website on AWS Elastic Beanstalk that had an SQL server on Amazon's RDS that could add, keep track of, and search movie data. Finally, I had to finish up the project for this class with my team.
+
+**What's in your way?**
+I have a fairly chill week coming up but followed by another fairly hard week. Hopefully, I can end up balancing out those a bit.My toe injury has gotten a lot better but hasn't fully healed up. I really want that to get better so I can start running again. 
+
+**What will you do next week?**
+I need to do some work on projects that are not due until the week after but will pile up otherwise. I also plan to try and play as much ultimate as I can despite not being able to run much. Hopefully, I will have some time to catch up on sleep as well. 
+
+**What's my experience of the class?**
+I am still enjoying this class. I like the material we are learning right now and really appreciate that he is going over the refactoring example with us. This recent material has definitely helped me understand how to make my code stronger and more adaptable, as I usually just tended for very simple and specialized code.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+Be careful when you are working with programs like AWS as they are very complex and sometimes things that shouldn't have any effect on the program can end up making it crash. For example, on my cloud project, my code kept failing when I deployed it until I removed some useless code that did nothing and it suddenly worked.
