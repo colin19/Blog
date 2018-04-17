@@ -220,3 +220,23 @@ I am still enjoying this class. I like the material we are learning right now an
 
 **What's my pick-of-the-week or tip-of-the-week?**
 Be careful when you are working with programs like AWS as they are very complex and sometimes things that shouldn't have any effect on the program can end up making it crash. For example, on my cloud project, my code kept failing when I deployed it until I removed some useless code that did nothing and it suddenly worked.
+
+## CS373 Spring 2018: Colin Hall
+![Headshot](https://github.com/colin19/Blog/blob/master/sizedImage.jpg)
+
+## Week of 9 Apr - 15 Apr:
+
+**What did you do this past week?**
+This last week was a lot of fun. I played a bunch of ultimate and had a good amount of time to spend with friends. I ended up going camping with running club on Saturday and volunteering with the Olympic Triathalon that was happening there the next day. Once I was done volunteering I got to go cliff jumping, which I hadn't done in forever. I got massively sunburned but this week was definitely worth it. Finally, I had a final interview with Innoplexus that went well so hopefully I will be able to work in New York City with them this summer. 
+
+**What's in your way?**
+Nothing in particular is in my way right now. I have a lot of work to do, but hopefully it will be manageable and I will have plenty of time to help out my team on this project. After I am done with these projects this week will be super free and I can take some time to do fun stuff again.
+
+**What will you do next week?**
+The beginning of next week is going to be exclusively working on projects. Once I'm done with those I plan to go to a motorcycle show this weekend which should be pretty unique. I also plan to go rock climbing Sunday, so hopefully I haven't lost any of my ability since school started back up.
+
+**What's my experience of the class?**
+I think this class has been immensely helpful. I am definitely more confident in my ability to write clean and expandable code as a result of the last couple of weeks. I also am a lot more confident in my ability to actually put my code out into the world due to my experience with this classes project. Hopefully, this class will continue to be useful for the next few weeks.
+
+**What's my pick-of-the-week or tip-of-the-week?**
+Never give up on getting internships. I have and have seen other people get internships way after the main recruiting season ends. It is never too late just keep applying and eventually somebody will get back to you. 
